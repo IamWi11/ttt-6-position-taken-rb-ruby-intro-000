@@ -1,6 +1,6 @@
 def position_taken?(board, index)
 
-array[1]
+array[1] == " "
 
 end
 
